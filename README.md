@@ -1,4 +1,4 @@
-# cavans-progress
+# canvas-progress
 ## 一个由canvas做的仪表盘的进度条
 前段时间项目开发，设计稿上要求有类似与仪表盘的进度条，平常可以用css解决圆形进度条，发现css没法解决仪表盘的进度条，所以用canvas试了试。
 

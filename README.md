@@ -4,7 +4,9 @@
 
 ---
 #### 设计稿如下：
-![](https://github.com/sqh17/cavans-progrss/raw/master/images/设计稿.png)。
-
+![](https://github.com/sqh17/cavans-progrss/raw/master/images/设计稿.png)
 #### 效果图如下：
-![](https://github.com/sqh17/cavans-progrss/tree/master/images/效果图.png)。
+![](https://github.com/sqh17/cavans-progrss/raw/master/images/效果图.png)
+
+---
+关于样式美化，可以根据里面的代码进行调整
